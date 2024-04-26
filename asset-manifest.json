@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Client/static/css/main.2b8c1f5a.css",
+    "main.js": "/Client/static/js/main.d6d6535c.js",
+    "static/media/fa-solid-900.svg": "/Client/static/media/fa-solid-900.371dbce0dd46bd4d2033.svg",
+    "static/media/fa-brands-400.svg": "/Client/static/media/fa-brands-400.e33e2cf6e02cac2ccb77.svg",
+    "static/media/fa-solid-900.eot": "/Client/static/media/fa-solid-900.3a24a60e7f9c6574864a.eot",
+    "static/media/fa-solid-900.ttf": "/Client/static/media/fa-solid-900.10ecefc282f2761808bf.ttf",
+    "static/media/fa-regular-400.svg": "/Client/static/media/fa-regular-400.06b9d19ced8d17f3d5cb.svg",
+    "static/media/fa-brands-400.eot": "/Client/static/media/fa-brands-400.0fea24969112a781acd2.eot",
+    "static/media/fa-brands-400.ttf": "/Client/static/media/fa-brands-400.ec82f282c7f54b637098.ttf",
+    "static/media/fa-solid-900.woff": "/Client/static/media/fa-solid-900.46fdbd2d897f8824e63c.woff",
+    "static/media/fa-brands-400.woff": "/Client/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+    "static/media/fa-solid-900.woff2": "/Client/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+    "static/media/fa-brands-400.woff2": "/Client/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+    "static/media/person_2.jpg": "/Client/static/media/person_2.e9f79eedc16778f96998.jpg",
+    "static/media/fa-regular-400.eot": "/Client/static/media/fa-regular-400.08f9891a6f44d9546678.eot",
+    "static/media/fa-regular-400.ttf": "/Client/static/media/fa-regular-400.1495f578452eb676f730.ttf",
+    "static/media/person_3.jpg": "/Client/static/media/person_3.5673a1f2bcbea643e91f.jpg",
+    "static/media/fa-regular-400.woff": "/Client/static/media/fa-regular-400.1069ea55beaa01060302.woff",
+    "static/media/fa-regular-400.woff2": "/Client/static/media/fa-regular-400.1008b5226941c24f4468.woff2",
+    "index.html": "/Client/index.html",
+    "static/media/arrow_left.svg": "/Client/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/Client/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.2b8c1f5a.css.map": "/Client/static/css/main.2b8c1f5a.css.map",
+    "main.d6d6535c.js.map": "/Client/static/js/main.d6d6535c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8c1f5a.css",
+    "static/js/main.d6d6535c.js"
+  ]
+}
